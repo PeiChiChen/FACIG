@@ -1,7 +1,7 @@
 ## Foreground Focus: Enhancing Coherence and Fidelity in Camouflaged Image Generation
 
 <p align="center">
-  <img src="FACIG.svg" alt="FACIG comparison" style="width:100%;"/>
+  <img src="FACIG.svg" alt="FACIG comparison" style="width:50%;"/>
 </p>
 
 - Our paper is accepted by ICME 2025 (<span style="color:red"><b>Oral</b></span>).
